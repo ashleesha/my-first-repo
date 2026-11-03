@@ -1,1 +1,2 @@
-"I'm learning Git!" # my-first-repo
+# my-first-repo
+I'm learning Git!
